@@ -86,7 +86,7 @@ classDiagram
 
 ## Documentação da API (Swagger)
 
-### [url demo application](challenge-railway-api-production-84ce.up.railway.app)
+### [url demo application](https://challenge-railway-api-prd.up.railway.app/)
 
 Esta API ficará disponível no Railway por um período de tempo limitado
 
