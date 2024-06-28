@@ -86,7 +86,7 @@ classDiagram
 
 ## Documentação da API (Swagger)
 
-### [https://sdw-2023-prd.up.railway.app/swagger-ui.html](https://sdw-2023-prd.up.railway.app/swagger-ui.html)
+### [url demo application](challenge-railway-api-production-84ce.up.railway.app)
 
 Esta API ficará disponível no Railway por um período de tempo limitado
 
